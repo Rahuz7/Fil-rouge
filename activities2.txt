@@ -1,0 +1,4 @@
+anglais 90 english td
+mathematiques 75 maths discretes
+poo 75 cm poo
+dejeuner 90 pause dejeuner

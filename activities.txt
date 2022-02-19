@@ -1,0 +1,4 @@
+cafe 5 prendreUnCafe
+bus 30 trajetEnBus
+cours 75 CMPoo
+salut 5 saluerLesCopains

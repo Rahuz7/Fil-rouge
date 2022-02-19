@@ -1,0 +1,4 @@
+PRECEDENCE_GAP 15 anglais mathematiques
+PRECEDENCE_GAP 15 mathematiques poo
+MEET poo dejeuner
+MAX_SPAN 600 anglais mathematiques poo
